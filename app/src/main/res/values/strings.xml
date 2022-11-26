@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Nonogram</string>
+    <string name="puzzle_layout_level_1">LEVEL 1</string>
+    <string name="acitivity_main_nonogram">Nonogram</string>
+    <string name="activity_main_check_lvl">"  Выберите нужный уровень:"</string>
+    <string name="activity_main_lvl1">Уровень 1</string>
+    <string name="activity_main_lvl2">Уровень 2</string>
+    <string name="activity_main_lvl_3">Уровень 3</string>
+    <string name="activity_main_lvl4">Уровень 4</string>
+    <string-array name="upper_text_puzzle_1">
+        <item></item>
+        <item>\n\n\n\n2</item>
+        <item>\n\n\n\n3</item>
+        <item>\n\n\n\n1</item>
+        <item>\n\n\n2\n1</item>
+        <item>\n\n\n\n5</item>
+        <item>\n\n\n\n4</item>
+        <item>\n\n1\n4\n1</item>
+        <item>\n\n\n1\n5</item>
+        <item>\n\n\n2\n2</item>
+        <item>\n\n\n2\n1</item>
+    </string-array>
+    <string-array name="left_text_puzzle_1">
+        <item>1 2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2 4</item>
+        <item>2 6</item>
+        <item>8</item>
+        <item>1 1</item>
+        <item>2 2</item>
+    </string-array>
+
+    <string-array name="upper_text_puzzle_2">
+        <item></item>
+        <item>\n\n\n\n</item>
+        <item>\n\n\n\n2</item>
+        <item>\n\n\n\n3</item>
+        <item>\n\n\n\n1</item>
+        <item>\n\n1\n2\n2</item>
+        <item>\n\n1\n2\n2</item>
+        <item>\n\n\n1\n2</item>
+        <item>\n\n\n\n6</item>
+        <item>\n\n\n\n4</item>
+        <item>\n\n\n\n</item>
+    </string-array>
+    <string-array name="left_text_puzzle_2">
+        <item>6</item>
+        <item>2 2</item>
+        <item>2 2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item> </item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="upper_text_puzzle_3">
+        <item></item>
+        <item>\n\n\n\n1</item>
+        <item>\n\n\n5\n1</item>
+        <item>\n\n\n2\n7</item>
+        <item>\n\n\n1\n4</item>
+        <item>\n\n\n2\n7</item>
+        <item>\n\n\n\n7</item>
+        <item>\n\n\n2\n7</item>
+        <item>\n\n\n5\n1</item>
+        <item>\n\n1\n1\n1</item>
+        <item>\n\n\n2\n1</item>
+    </string-array>
+    <string-array name="left_text_puzzle_3">
+        <item>1 1 1</item>
+        <item>1 1 1</item>
+        <item> </item>
+        <item>7</item>
+        <item>2 6</item>
+        <item>2 4 1</item>
+        <item>8</item>
+        <item>7</item>
+        <item>1 5 1</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="upper_text_puzzle_4">
+        <item></item>
+        <item>\n\n\n\n7</item>
+        <item>\n\n1\n1\n4</item>
+        <item>\n\n\n1\n7</item>
+        <item>\n\n\n3\n2</item>
+        <item>\n\n\n1\n1</item>
+        <item>\n\n\n1\n1</item>
+        <item>\n\n\n2\n1</item>
+        <item>\n\n1\n1\n1</item>
+        <item>\n\n\n2\n3</item>
+        <item>\n\n\n\n7</item>
+    </string-array>
+    <string-array name="left_text_puzzle_4">
+        <item>1 1</item>
+        <item>1 1</item>
+        <item>10</item>
+        <item>1 2 2</item>
+        <item>3 1</item>
+        <item>1 1 1</item>
+        <item>3 1</item>
+        <item>4 2</item>
+        <item>10</item>
+        <item>1 1</item>
+    </string-array>
+</resources>

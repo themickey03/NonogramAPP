@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/light_gray"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <View
+        android:layout_height="20dip"
+        android:background="#FF909090" />
+
+    <TextView
+        android:text = "@string/puzzle_layout_level_1"
+        android:id = "@+id/lvl_name"
+        android:padding="3dip"
+        android:textAlignment="center"
+        android:textColor="@color/white"/>
+
+    <View
+        android:layout_height="20dip"
+        android:background="#FF909090" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/activity_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:isScrollContainer="false" />
+
+
+</TableLayout>
