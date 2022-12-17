@@ -31,7 +31,7 @@ public class Puzzle_activity extends AppCompatActivity {
          * Intent в данном случае используется для передачи данных в другой Activity.
          * Необходимо передать инфорамцию о выбранном уровне между Activity, и через обращение
          * к Intent данные передаются.
-         * В коде Puzzle_activity.java данный параметр будет использован.
+         * В коде GridAdapter.java данный параметр будет использован.
          */
         Intent thisIntent = getIntent();
         //Добавление lvl в данные Intent, для использования их
