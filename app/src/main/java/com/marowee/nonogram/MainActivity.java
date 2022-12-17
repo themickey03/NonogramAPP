@@ -1,4 +1,4 @@
-package com.mickey.nonogram;
+package com.marowee.nonogram;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;

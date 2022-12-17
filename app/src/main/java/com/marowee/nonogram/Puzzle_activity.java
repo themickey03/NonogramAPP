@@ -1,4 +1,4 @@
-package com.mickey.nonogram;
+package com.marowee.nonogram;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -13,7 +13,7 @@ public class Puzzle_activity extends AppCompatActivity {
     /**
      * Объявляются переменные, необходимые для кода.
      *
-     * adapter -> GridAdapter, адаптер, программно управляющий расстановкой элементов
+     * adapter -> GridAdapter, адаптер, программно управляющий растановкой элементов
      * из массива данных на layout
      *
      * lvl -> Int, номер уровня, получаемый из кнопки, которую нажал пользователь

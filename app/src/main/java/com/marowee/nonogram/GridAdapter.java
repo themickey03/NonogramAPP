@@ -1,4 +1,4 @@
-package com.mickey.nonogram;
+package com.marowee.nonogram;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
