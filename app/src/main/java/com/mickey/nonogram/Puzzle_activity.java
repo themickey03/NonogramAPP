@@ -28,10 +28,9 @@ public class Puzzle_activity extends AppCompatActivity {
         setContentView(R.layout.puzzle_layout);
 
         /*
-         * Intent в данном случае используется для передачи данных в другой Activity.
-         * Необходимо передать инфорамцию о выбранном уровне между Activity, и через обращение
-         * к Intent данные передаются.
-         * В коде GridAdapter.java данный параметр будет использован.
+         * Intent в данном случае используется для передачи данных между Activity.
+         * В MainActivity объявления переменная lvl, и передается вместе с данными Intent.
+         * Здесь, в коде, данные получаются, и обрабатываются дальше.
          */
         Intent thisIntent = getIntent();
         //Добавление lvl в данные Intent, для использования их
